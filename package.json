@@ -1,5 +1,5 @@
 {
-  "name": "react-native-yandexmapkit",
+  "name": "q-react-native-yandexmapkit",
   "version": "0.1.4",
   "description": "React Native wrapper for Yandex Map Kit iOS and Android",
   "main": "index.js",
